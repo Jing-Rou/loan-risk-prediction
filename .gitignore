@@ -1,8 +1,11 @@
-assets/
 .env
 mlartifacts/
 *.pkl
 src/catboost_info/
-.dvc
 .idea
 .vscode
+# Ignore everything inside assets
+assets/*
+# But allow .dvc files
+!assets/*.dvc
+.dvc/config.local
