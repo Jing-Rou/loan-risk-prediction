@@ -1,0 +1,8 @@
+assets/
+.env
+mlartifacts/
+*.pkl
+src/catboost_info/
+.dvc
+.idea
+.vscode
