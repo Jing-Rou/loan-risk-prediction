@@ -1,0 +1,5 @@
+outs:
+- md5: 718a140a237bc48f66ed76f949c5b8b2
+  size: 15098739
+  hash: md5
+  path: clarity_underwriting_variables.csv
